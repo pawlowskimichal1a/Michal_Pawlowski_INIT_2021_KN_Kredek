@@ -2,4 +2,5 @@ Czesc!
 
 tutaj komputer B, co tam slychac?
 
-KOMPUTER A GÓRĄ!
+
+KOMPUTER A GÓRĄ! ======= KOMPUTER B GÓRĄ!
