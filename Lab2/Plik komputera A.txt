@@ -1,0 +1,3 @@
+To jest plik stworzony na komputerze A
+Zmiana pierwsza w pliku A
+Poważna zmiana od komputera A
