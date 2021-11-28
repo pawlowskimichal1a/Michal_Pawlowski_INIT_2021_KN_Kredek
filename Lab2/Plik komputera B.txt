@@ -1,0 +1,3 @@
+To jest plik stworzony na komputerze B
+Zmiana pierwsza w pliku B
+Zmiana druga w pliku B
