@@ -1,1 +1,2 @@
 To jest plik stworzony na komputerze A
+Zmiana pierwsza w pliku A
