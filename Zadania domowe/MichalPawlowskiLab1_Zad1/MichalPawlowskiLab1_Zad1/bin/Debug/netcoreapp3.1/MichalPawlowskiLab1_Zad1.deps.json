@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MichalPawlowskiLab1_Zad1/1.0.0": {
+        "runtime": {
+          "MichalPawlowskiLab1_Zad1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MichalPawlowskiLab1_Zad1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

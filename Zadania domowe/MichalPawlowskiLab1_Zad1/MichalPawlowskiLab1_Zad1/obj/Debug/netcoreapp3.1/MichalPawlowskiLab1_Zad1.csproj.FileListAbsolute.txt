@@ -1,0 +1,13 @@
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\bin\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.exe
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\bin\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.deps.json
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\bin\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.runtimeconfig.json
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\bin\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.runtimeconfig.dev.json
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\bin\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.dll
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\bin\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.pdb
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\obj\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.csproj.AssemblyReference.cache
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\obj\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.AssemblyInfoInputs.cache
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\obj\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.AssemblyInfo.cs
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\obj\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.csproj.CoreCompileInputs.cache
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\obj\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.dll
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\obj\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.pdb
+C:\Users\pawlomch\Desktop\Projekty\Szkolenie C#\Lab1\MichalPawlowskiLab1_Zad1\MichalPawlowskiLab1_Zad1\obj\Debug\netcoreapp3.1\MichalPawlowskiLab1_Zad1.genruntimeconfig.cache
