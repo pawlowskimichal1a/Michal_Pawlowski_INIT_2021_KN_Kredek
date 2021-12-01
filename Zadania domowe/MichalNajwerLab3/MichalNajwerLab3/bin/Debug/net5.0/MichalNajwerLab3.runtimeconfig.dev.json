@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\minio\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\minio\\.nuget\\packages"
-    ]
-  }
-}
