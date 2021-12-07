@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\pawlomch\\.nuget\\packages\\": {},
+    "C:\\Users\\pawlo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pawlomch\\Desktop\\Projekty\\Szkolenie C#\\Lab1\\MichalPawlowskiLab1_Zad1\\MichalPawlowskiLab1_Zad1\\MichalPawlowskiLab1_Zad1.csproj",
+      "projectUniqueName": "E:\\Szkolenia\\INIT 2021 - C#_KN_Kredek\\Lab2\\Repozytorium\\Szkolenie_KN_Kredek\\Zadania domowe\\MichalPawlowskiLab1_Zad1\\MichalPawlowskiLab1_Zad1\\MichalPawlowskiLab1_Zad1.csproj",
       "projectName": "MichalPawlowskiLab1_Zad1",
-      "projectPath": "C:\\Users\\pawlomch\\Desktop\\Projekty\\Szkolenie C#\\Lab1\\MichalPawlowskiLab1_Zad1\\MichalPawlowskiLab1_Zad1\\MichalPawlowskiLab1_Zad1.csproj",
-      "packagesPath": "C:\\Users\\pawlomch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pawlomch\\Desktop\\Projekty\\Szkolenie C#\\Lab1\\MichalPawlowskiLab1_Zad1\\MichalPawlowskiLab1_Zad1\\obj\\",
+      "projectPath": "E:\\Szkolenia\\INIT 2021 - C#_KN_Kredek\\Lab2\\Repozytorium\\Szkolenie_KN_Kredek\\Zadania domowe\\MichalPawlowskiLab1_Zad1\\MichalPawlowskiLab1_Zad1\\MichalPawlowskiLab1_Zad1.csproj",
+      "packagesPath": "C:\\Users\\pawlo\\.nuget\\packages\\",
+      "outputPath": "E:\\Szkolenia\\INIT 2021 - C#_KN_Kredek\\Lab2\\Repozytorium\\Szkolenie_KN_Kredek\\Zadania domowe\\MichalPawlowskiLab1_Zad1\\MichalPawlowskiLab1_Zad1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pawlomch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pawlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -50,3 +50,9 @@ namespace MichalPawlowskiLab1_Zad1
         }
     }
 }
+
+//Jeśli chodzi o możliwe ulepszenia do mógłbyś poczytać sobie o wyłapywaniu błędów czyli o blokach try catch
+//i sprawić że program odpowiednio by reagował gdy user zamiast liczby poda na przykład tekst.
+//Możesz też poczytać o innych sposobach konwersji np metodzie TryParse :D.
+
+//Tak juz bardziej bardziej dodatkowo to możesz poczytać sobie czym jest tabela z kodami ASCII i jak je można użyć i obsłużyć ;)
